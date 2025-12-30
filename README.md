@@ -1,16 +1,49 @@
-## Hi there 👋
+# 🌾 FORGE - AgriTech Supply Chain Platform
 
-<!--
-**forge-Agritech/forge-Agritech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Building India's #1 SaaS ecosystem for the entire agricultural supply chain
 
-Here are some ideas to get you started:
+## Our Vision
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Connecting **10,000+ stakeholders** across India's agri ecosystem:
+- 🌱 **Farmers** - Crop planning & market access
+- 🏪 **Dealers/Retailers** - Inventory & billing
+- 🚚 **Distributors** - Supply chain management
+- 🏭 **Manufacturers** - Production & distribution tracking
+
+## What We're Building
+
+- 📊 Real-time inventory management across supply chain
+- 💰 GST billing & invoicing for all stakeholders
+- 🌦️ Weather-based crop advisory for farmers
+- 👥 Customer & credit tracking
+- 📱 Multi-channel interface (WhatsApp/Telegram)
+- 🔗 Supply chain visibility from farm to manufacturer
+
+## Tech Stack
+
+- Python + Google Sheets API
+- Telegram Bot (user interface)
+- Weather API integration
+- Cloud-based architecture
+- Multi-tenant SaaS platform
+
+## Pricing
+
+- 🌱 Farmer: FREE
+- 🎯 Dealer: ₹99/month
+- 📈 Distributor: ₹499/month
+- 🏭 Manufacturer: ₹999/month
+- 🎁 30-day FREE trial for all paid tiers
+
+## Status
+
+**MVP Development** | Launch: Q1 2026
+
+## Contact
+
+📧 forgedatabase@gmail.com  
+🔗 Join Beta: Coming soon
+
+---
+
+*Empowering India's entire agri supply chain with smart business tools* 🇮🇳
